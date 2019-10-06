@@ -16,4 +16,4 @@
 * [colors] (https://www.npmjs.com/package/colors) - changes the color of terminal while running the commands. 
 
 
-**NPM install** to install the dependecies
+**npm install** to install the dependecies
